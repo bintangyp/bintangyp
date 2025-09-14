@@ -1,4 +1,4 @@
-![bintang](img/banner.png)
+![bintang](banner.png)
 
 ###### Skills
 
